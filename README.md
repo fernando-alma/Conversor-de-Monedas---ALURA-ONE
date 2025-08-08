@@ -1,8 +1,7 @@
 
-![Portada](assets/ConversordeMonedas.png)
+![Portada](src/assets/ConversordeMonedas.png)
 
-  **Conversor de Monedas - Versión 1.0**
----
+***Conversor de Monedas - Versión 1.0***
 
 ## Descripción General
 
