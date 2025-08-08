@@ -1,12 +1,10 @@
 
-````markdown
-# 🎉 Conversor de Monedas - Versión 1.0
-
 ![Portada](assets/ConversordeMonedas.png)
 
+  **Conversor de Monedas - Versión 1.0**
 ---
 
-## 🚀 Descripción General
+## Descripción General
 
 **Conversor de Monedas** es una aplicación desarrollada en **Java** que permite convertir valores entre distintas monedas utilizando tasas de cambio dinámicas obtenidas a partir de una API externa.
 
@@ -14,7 +12,7 @@ Esta es la **primera versión** del proyecto, enfocada en la **lógica central d
 
 ---
 
-## 📂 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```plaintext
 Conversor de Monedas - ALURA ONE/
@@ -42,7 +40,7 @@ Conversor de Monedas - ALURA ONE/
 
 ---
 
-## 📌 Características Principales (v1.0)
+##  Características Principales (v1.0)
 
 | Funcionalidad                                   | Estado        |
 | ----------------------------------------------- | ------------- |
@@ -56,7 +54,7 @@ Conversor de Monedas - ALURA ONE/
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 * **Java 21+**
 * **Gson 2.13.1** para manejo y parseo de JSON.
@@ -65,7 +63,7 @@ Conversor de Monedas - ALURA ONE/
 
 ---
 
-## 🎯 Uso
+##  Uso
 
 1. **Clonar el repositorio:**
 
@@ -95,7 +93,7 @@ java -cp "out;gson-2.13.1.jar" com.aluracursos.conversordemonedas.principal.Prin
 
 ---
 
-## 📈 Próximas Mejoras
+##  Próximas Mejoras
 
 | Funcionalidad                               | Estado Actual | 
 | ------------------------------------------- | ------------- | 
@@ -110,13 +108,13 @@ java -cp "out;gson-2.13.1.jar" com.aluracursos.conversordemonedas.principal.Prin
 
 
 
-## 📄 Licencia
+##  Licencia
 
 Este proyecto es para uso personal y educativo. Para usos comerciales o distribución, contacta al autor.
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **Alma Dileo Fernando Gonzalo**
 Desarrollador Fullstack.
