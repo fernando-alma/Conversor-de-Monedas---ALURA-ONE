@@ -2,7 +2,7 @@
 ````markdown
 # 🎉 Conversor de Monedas - Versión 1.0
 
-![Portada](assets/Conversor de Monedas.png)
+![Portada](assets/ConversordeMonedas.png)
 
 ---
 
@@ -23,7 +23,7 @@ Conversor de Monedas - ALURA ONE/
 ├── out/                               # Archivos compilados (.class)
 ├── src/                               # Código fuente y recursos
 │   ├── assets/                        # Recursos estáticos (imágenes, etc)
-│   │   └── Conversor de Monedas.png   # Imagen de portada del proyecto
+│   │   └── ConversordeMonedas.png     # Imagen de portada del proyecto
 │   └── com/
 │       └── aluracursos/
 │           └── conversordemonedas/
